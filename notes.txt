@@ -1,0 +1,25 @@
+{
+	"name": "Yuvraj Singh",
+	"regNumber": "18BCE0614",
+	"monday": [{"first":false},{"second":true},{"third":false},{"fourth":false},{"fifth":false},{"sixth":false},{"seventh":false},{"eight":false},{"ninth":false},{"tenth":false}]
+}
+{
+	"name": "Ishika Kumar",
+	"regNumber": "18BCE0614",
+	"monday": [{"first":true},{"second":true},{"third":false},{"fourth":true},{"fifth":false},{"sixth":true},{"seventh":true},{"eight":false},{"ninth":false},{"tenth":true}]
+}
+{
+	"name": "Rayna Singh",
+	"regNumber": "19BCE0614",
+	"monday": [{"first":false},{"second":true},{"third":false},{"fourth":true},{"fifth":false},{"sixth":false},{"seventh":true},{"eight":false},{"ninth":true},{"tenth":true}]
+}
+{
+	"name": "Rohan Ashra",
+	"regNumber": "17BCE0614",
+	"monday": [{"first":true},{"second":true},{"third":true},{"fourth":false},{"fifth":false},{"sixth":true},{"seventh":true},{"eight":false},{"ninth":true},{"tenth":false}]
+}
+{
+	"name": "Mehul Goel",
+	"regNumber": "17BCE0614",
+	"monday": [{"first":true},{"second":false},{"third":true},{"fourth":true},{"fifth":false},{"sixth":true},{"seventh":true},{"eight":false},{"ninth":true},{"tenth":true}]
+}
